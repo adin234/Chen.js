@@ -1,3 +1,4 @@
+#!/usr/local/bin/node
 'use strict';
 
 const co = require('co');
@@ -11,5 +12,8 @@ if (!command) {
 }
 
 co(function *() {
-  yield command.execute();
+  yield command.execute.apply(command, process.argv.slice(3));
+})
+.catch(err => {
+  Chen.Log.error(err);
 });
