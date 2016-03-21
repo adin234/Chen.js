@@ -1,5 +1,5 @@
 {
-  "name": "Chen.js",
+  "name": "chen.js",
   "version": "0.0.1",
   "description": "A NodeJS framework built on top of ExpressJS",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tontonskie/chen.js.git"
+    "url": "git+https://github.com/tontonskie/Chen.js.git"
   },
   "author": "tontonskie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tontonskie/chen.js/issues"
+    "url": "https://github.com/tontonskie/Chen.js/issues"
   },
-  "homepage": "https://github.com/tontonskie/chen.js#readme",
+  "homepage": "https://github.com/tontonskie/Chen.js#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "bookshelf": "^0.9.2",
