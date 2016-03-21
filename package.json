@@ -1,5 +1,5 @@
 {
-  "name": "chen.js",
+  "name": "chen",
   "version": "0.0.1",
   "description": "A NodeJS framework built on top of ExpressJS",
   "main": "index.js",
