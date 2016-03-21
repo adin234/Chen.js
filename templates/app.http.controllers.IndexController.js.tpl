@@ -6,3 +6,5 @@ class IndexController extends Chen.Controller {
     return res.render('index');
   }
 }
+
+module.exports = IndexController;
