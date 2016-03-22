@@ -1,6 +1,6 @@
 {
   "name": "chen",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A NodeJS framework built on top of ExpressJS",
   "main": "index.js",
   "scripts": {
